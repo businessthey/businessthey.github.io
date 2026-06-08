@@ -1,18 +1,43 @@
+<p>
+<a href="/">← Back to Home</a>
+</p>
+
 ---
 layout: default
+title: Research Journal
 ---
+
+<h1>Research Journal</h1>
+
+<p>
+This journal documents my progress throughout the NSF DREAM program.
+Entries include project activities, findings, challenges, and next steps
+as I conduct research on safety features and auditing methodologies for
+online dating platforms.
+</p>
+
+<hr>
 
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h2>
+
+      <small>{{ post.date | date: "%B %-d, %Y" }}</small>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+        Read Full Entry →
+      </a>
+
     </article>
   {% endfor %}
 </div>
