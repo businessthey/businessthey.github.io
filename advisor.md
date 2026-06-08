@@ -4,8 +4,6 @@ title: About My Advisor
 permalink: /advisor.html
 ---
 
-# About My Advisor
-
 ## Name
 
 Laura Edelson
