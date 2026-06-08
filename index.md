@@ -5,7 +5,7 @@ title: DREAM Project Site
 
 # DREAM Research Project
 
-Master's Research Apprentice | Northeastern University | Summer 2026
+### Master's Research Apprentice · Northeastern University · Summer 2026
 
 ## Project Overview
 
