@@ -3,8 +3,13 @@ layout: default
 title: DREAM Project Site
 ---
 
-* TOC
-{:toc}
+# DREAM Research Project
+
+Master's Research Apprentice | Northeastern University | Summer 2026
+
+## Project Overview
+
+This project investigates safety features on major dating platforms using scenario-based auditing methods adapted from prior social media safety evaluations. The goal is to develop a taxonomy of user-facing safety tools and assess how platforms respond to potential safety risks.
 
 ## About Me
 
@@ -18,8 +23,8 @@ Advisor info goes here.
 
 Project description goes here.
 
-[My Final Report](files/finalreport.pdf)
+[Final Report](files/finalreport.pdf)
 
-## My Blog
+## Research Journal
 
-[My Blog](blog.html)
+[View weekly research updates](blog.html)
