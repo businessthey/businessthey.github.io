@@ -4,7 +4,9 @@ title: Research Project
 permalink: /project.html
 ---
 
-# Research Project
+<p>
+  <a href="{{ site.baseurl }}/">← Back to Home</a>
+</p>
 
 ## Background
 
