@@ -4,7 +4,9 @@ title: About Me
 permalink: /about.html
 ---
 
-# About Me
+<p>
+  <a href="{{ site.baseurl }}/">← Back to Home</a>
+</p>
 
 ## Name
 
