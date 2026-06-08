@@ -4,10 +4,6 @@ title: About My Advisor
 permalink: /advisor.html
 ---
 
-<p>
-  <a href="{{ site.baseurl }}/">← Back to Home</a>
-</p>
-
 ## Name
 
 Laura Edelson
