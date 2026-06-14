@@ -3,9 +3,11 @@ layout: default
 title: DREAM Project Site
 ---
 
-## Project Overview
+## Welcome
 
-This project investigates safety features on major dating platforms using scenario-based auditing methods adapted from prior social media safety evaluations. The goal is to develop a taxonomy of user-facing safety tools and assess how platforms respond to potential safety risks.
+Welcome to my NSF DREAM research website. This site documents my work as a Master's Research Apprentice through the Distributed Research Experiences for Advanced Master's (DREAM) program.
+
+Throughout the summer, I'll be sharing my research progress, reflections, methodology development, and findings as I investigate safety features on dating platforms. The site also serves as a record of the research process itself, from early literature reviews and feature inventories to testing design and final outcomes!
 
 ## Site Navigation
 
