@@ -6,7 +6,7 @@ permalink: /about.html
 
 ## My background
 
-Hi! I'm J (they/them/theirs).
+Hi, I'm J (they/them/theirs)!
 
 I'm a Master's student in Computer Science at Northeastern University with a background spanning biology, business, product management, and user research. I studied at MIT and later earned a Master in Management from IE Business School before transitioning into product-focused roles in technology.
 
