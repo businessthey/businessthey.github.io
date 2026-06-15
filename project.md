@@ -4,8 +4,6 @@ title: Research Project
 permalink: /project.html
 ---
 
-# Research Project
-
 ## Project Overview
 
 This project explores how safety features on dating platforms can be systematically identified, categorized, and evaluated. Building on prior platform auditing work, the research adapts existing safety evaluation methodologies to the context of online dating, where users face unique risks related to identity, communication, privacy, and interpersonal interactions.
