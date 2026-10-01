@@ -15,4 +15,4 @@ Throughout the summer, I'll be sharing my research progress, reflections, method
 - [About My Advisor](advisor.html)
 - [Research Project](project.html)
 - [Research Journal](blog.html)
-- [Final Report](files/finalreport.pdf)
+- [Final Report](files/Mapping%20Tinder%27s%20Safety%20Feature%20Claims%20to%20Problem%20Areas%20and%20Risks.pdf)
