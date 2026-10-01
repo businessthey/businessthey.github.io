@@ -53,4 +53,4 @@ This one influenced how I thought about agency more broadly. The paper treats af
 - [About My Advisor](advisor.html)
 - [Research Project](project.html)
 - [Research Journal](blog.html)
-- [Final Report](files/Mapping%20Tinder%27s%20Safety%20Feature%20Claims%20to%20Problem%20Areas%20and%20Risks.pdf)
+- [Final Report](/files/Mapping Tinder's Safety Feature Claims to Problem Areas and Risks.pdf)
